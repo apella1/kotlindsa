@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c151289d-795c-4726-8102-5ff1e114a414" name="Changes" comment="feat: add contains duplicate LeetCode easy">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="c151289d-795c-4726-8102-5ff1e114a414" name="Changes" comment="version idea files">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/leetcode/easy/ValidAnagram.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +71,7 @@
   "keyToString": {
     "Gradle.Build kotlindsa.executor": "Run",
     "Gradle.kotlindsa [:me.apella.leetcode.easy.ContainsDuplicateKt.main()].executor": "Run",
+    "Gradle.kotlindsa [:me.apella.leetcode.easy.ValidAnagramKt.main()].executor": "Run",
     "Kotlin.GroupAnagramsKt.executor": "Run",
     "Kotlin.LongestConsecutiveSequenceKt.executor": "Run",
     "Kotlin.TwoSumKt.executor": "Run",
@@ -151,7 +153,7 @@
       <workItem from="1724160564080" duration="14000" />
       <workItem from="1725428862656" duration="2708000" />
       <workItem from="1767680580644" duration="1488000" />
-      <workItem from="1767683950195" duration="3377000" />
+      <workItem from="1767683950195" duration="6066000" />
     </task>
     <task id="LOCAL-00001" summary="feat: add contains duplicate LeetCode easy">
       <option name="closed" value="true" />
@@ -161,7 +163,15 @@
       <option name="project" value="LOCAL" />
       <updated>1767699752741</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="version idea files">
+      <option name="closed" value="true" />
+      <created>1767701339964</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1767701339964</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,7 +179,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: add contains duplicate LeetCode easy" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: add contains duplicate LeetCode easy" />
+    <MESSAGE value="version idea files" />
+    <option name="LAST_COMMIT_MESSAGE" value="version idea files" />
   </component>
   <component name="VgoProject">
     <integration-enabled>false</integration-enabled>
